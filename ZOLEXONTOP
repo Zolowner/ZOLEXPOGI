@@ -114,8 +114,8 @@ Logo.BackgroundTransparency = 3.000
 Logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Logo.BorderSizePixel = 0
 Logo.Position = UDim2.new(0.326732665, 0, 0, 0)
-Logo.Size = UDim2.new(0, 70, 0, 70)
-Logo.Image = "rbxassetid://830610397"
+Logo.Size = UDim2.new(0, 64, 0, 65)
+Logo.Image = "rbxassetid://18488061145"
 Logo.ImageTransparency = 0.300
 
 TextButton.Parent = Frame

@@ -5,9 +5,9 @@ local Mouse = game.Players.LocalPlayer:GetMouse()
 local CamlockState = false
 local Prediction = 0.14655
 local HorizontalPrediction = 0.14655
-local VerticalPrediction = 0.08
+local VerticalPrediction = 0.07
 local XPrediction = 0.1434
-local YPrediction = 0.08
+local YPrediction = 0.07
 
 local Players = game:GetService("Players")	
 local LP = Players.LocalPlayer	

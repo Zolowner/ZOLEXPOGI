@@ -17,7 +17,10 @@ local Locked = true
 
 getgenv().Key = "q"
 
-
+game.StarterGui:SetCore("SendNotification", {
+    Title = "ZolexCamlock",
+    Text = "subscribeToNechoscript"
+})
 function FindNearestEnemy()
     local ClosestDistance, ClosestPlayer = math.huge, nil
     local CenterPosition =
